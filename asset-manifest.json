@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/juniorilink/static/css/main.26da6592.css",
+    "main.js": "/juniorilink/static/js/main.b795c2e4.js",
+    "index.html": "/juniorilink/index.html",
+    "main.26da6592.css.map": "/juniorilink/static/css/main.26da6592.css.map",
+    "main.b795c2e4.js.map": "/juniorilink/static/js/main.b795c2e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26da6592.css",
+    "static/js/main.b795c2e4.js"
+  ]
+}
